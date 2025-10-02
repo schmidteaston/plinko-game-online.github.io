@@ -1,4 +1,4 @@
-# Plinko Game Online 🎮
+hello 67 🎮
 
 Experience the classic arcade thrill with our free online Plinko game! Drop discs through pegs and watch the excitement unfold.
 
