@@ -12,7 +12,7 @@ export const LOCAL_STORAGE_KEY = {
 /**
  * Range of row counts the game supports.
  */
-export const rowCountOptions = [8, 9, 10, 11, 12, 13, 14, 15, 16] as const;
+export const rowCountOptions = [8, 9, 10, 11, 12, 13, 14, 15, 25] as const;
 
 /**
  * Number of rows of pins the game supports.
